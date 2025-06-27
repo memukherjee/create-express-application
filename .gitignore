@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+npm-debug.log*
+.env*
+
+# Logs
+logs/
+*.log
+
+# Editor/OS specific files
+.DS_Store
+.eslintcache
+.node_repl_history

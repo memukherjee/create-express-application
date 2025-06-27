@@ -1,0 +1,26 @@
+{
+  "name": "create-express-application",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "create-express-app": "./index.js"
+  },
+  "keywords": [
+    "express",
+    "cli",
+    "scaffold",
+    "starter",
+    "create",
+    "boilerplate",
+    "create-express-app"
+  ],
+  "author": "Akash Mukherjee",
+  "license": "ISC",
+  "description": "CLI tool to scaffold a boilerplate Express.js application",
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
