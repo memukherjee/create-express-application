@@ -5,6 +5,10 @@
   "bin": {
     "create-express-application": "./index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/memukherjee/create-express-application.git"
+  },
   "keywords": [
     "express",
     "cli",
