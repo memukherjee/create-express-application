@@ -14,7 +14,7 @@ A zero-config CLI tool to bootstrap a modern Express.js server with support for 
 ## 📥 Installation
 
 ```bash
-npx create-express-app
+npx create-express-application
 ```
 Or clone it locally:
 ```bash
