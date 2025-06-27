@@ -1,4 +1,4 @@
-
+#!/usr/bin/env node
 const inquirer = require('inquirer');
 const { setupProject } = require('./utils/setupProject');
 

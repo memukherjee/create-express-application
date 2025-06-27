@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "bin": {
-    "create-express-app": "./index.js"
+    "create-express-application": "./index.js"
   },
   "keywords": [
     "express",
@@ -12,7 +12,8 @@
     "starter",
     "create",
     "boilerplate",
-    "create-express-app"
+    "create-express-app",
+    "create-express-application"
   ],
   "author": "Akash Mukherjee",
   "license": "ISC",
