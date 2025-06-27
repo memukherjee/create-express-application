@@ -2,6 +2,8 @@
 
 A zero-config CLI tool to bootstrap a modern Express.js server with support for JavaScript or TypeScript, environment variables, code formatting, and project scaffolding.
 
+[npmjs](https://www.npmjs.com/package/create-express-application)
+
 ## ✨ Features
 
 - 📦 One-command project setup
